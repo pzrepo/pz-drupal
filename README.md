@@ -1,5 +1,5 @@
 # Drupal Pz Gateway Installation Guide
-#### Steps to intall pz gateway
+#### Steps to install pz gateway
 
 1.) Download the drupal payment gateway zip file.
 
