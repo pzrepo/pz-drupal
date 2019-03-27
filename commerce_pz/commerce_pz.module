@@ -486,7 +486,7 @@ $form['TMPL_zip'] = array(
   $form['TMPL_CURRENCY'] = array(
   	'#type' => 'hidden',
   	'#attributes' => array('name' => 'TMPL_CURRENCY'),
-  	'#value' =>'USD',
+  	'#value' =>$currency_code,
   );
   $form['TMPL_AMOUNT'] = array(
   	'#type' => 'hidden',
